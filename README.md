@@ -7,14 +7,11 @@ and grouped level — using pure Python, Pandas, and Polars.
 
 ## Dataset
 
-**Source:** [2024 Facebook Political Ads — Google Drive](#) *(insert instructor link)*
+**Source:** [2024 Facebook Political Ads — Google Drive](#) 
 
 Each row is a Facebook ad purchase by an organisation whose creative content references
 one or more 2024 presidential candidates. This is a **different file** from Task 01 —
 do not assume the schema is identical.
-
-> **Do not commit the data file.** Download the CSV and place it in the project directory,
-> then pass its path when running the scripts.
 
 ---
 
